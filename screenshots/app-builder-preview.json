@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Mira Vale — Designer & photographer",
+      "hasCanvas": false,
+      "bodyTextLen": 318,
+      "bodyTextHash": "d10f7f585e13f3baabbfa29db6021612b10cf0a12d74094f864ca293cc6342f5",
+      "bodyTextPrefix": "Mira Vale Designer & photographer Photographs, interfaces, and t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Mira Vale — Designer & photographer",
+      "hasCanvas": false,
+      "bodyTextLen": 318,
+      "bodyTextHash": "d10f7f585e13f3baabbfa29db6021612b10cf0a12d74094f864ca293cc6342f5",
+      "bodyTextPrefix": "Mira Vale Designer & photographer Photographs, interfaces, and t",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
